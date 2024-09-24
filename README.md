@@ -1,4 +1,4 @@
 # demo
 this is my first demo repo
 <br>
-Author is Pranjal mishra
+Author is Pranjal mishra (kittu)
